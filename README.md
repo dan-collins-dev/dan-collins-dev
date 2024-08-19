@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dan-collins-dev/dan-collins-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Dan Collins
+
+I'm a hobbyist game developer and learning web development to transition to a new career.
+
+- 🔭 I’m currently working on ... A web app for quickly checking off monsters encountered in the Final Fantasy Pixel Remaster games.
+- 🌱 I’m currently learning ... Svelte and SvelteKit
+
+[![Dan Collins's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dan-collins-dev&theme=dark&show_icons=true)](https://github.com/dan-collins-dev)
