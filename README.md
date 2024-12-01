@@ -26,3 +26,5 @@ A mock service that allow game developers to register their games and receive an
 [Orbital Defense](https://github.com/dan-collins-dev/orbital-defense)
 
 Built with Godot as a proof of concept on how to use the above mentioned project.
+
+[![Dan Collins's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dan-collins-dev&theme=dark&show_icons=true)](https://github.com/dan-collins-dev)
