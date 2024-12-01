@@ -26,18 +26,3 @@ A mock service that allow game developers to register their games and receive an
 [Orbital Defense](https://github.com/dan-collins-dev/orbital-defense)
 
 Built with Godot as a proof of concept on how to use the above mentioned project.
-
-### Projects In Progress
-[My Personal Site and Blog](https://github.com/dan-collins-dev/dan-collins-dev.github.io)
-
-Built with Astro, this is an on-going project and at the top of priority list.
-
-[FFPR Compendium](https://github.com/dan-collins-dev/ffpr-compendium)
-
-Built using Svelte and SvelteKit, this wep app is to provide an easier way to track 100% completion progress in all six pixel remasters of Final Fantas 1 through Final Fantasy 6. Currently the goal is to make it staticly served, but based on the amount of data I'm having to collect, I may create a backend and practice my SQL skills with it.
-
-### Todo Apps
-I have one Todo app built in vanilla Javascript, but I am also working on console versions using C# and Python.
-
-
-[![Dan Collins's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dan-collins-dev&theme=dark&show_icons=true)](https://github.com/dan-collins-dev)
