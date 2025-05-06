@@ -1,7 +1,7 @@
 # About Me:
 I'm not a programmer. I'm a problem solver. I just happen to solve problems with code.
 
-## Completed Projects
+# Completed Projects
 [Highest of the High](https://github.com/dan-collins-dev/highest-of-the-hi)
 
 A mock service that allow game developers to register their games and receive an ID for their game. They will use that to make ```GET``` and ```POST``` requests to the API I built that stores their game's hi-score data.
