@@ -16,7 +16,7 @@ Built with Godot as a proof of concept on how to use the above mentioned project
 
 # GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=dan-collins-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-collins-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=dan-collins-dev&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dan-collins-dev&layout=compact&theme=dark)
 
 
